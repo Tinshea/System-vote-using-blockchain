@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "key.h": "c",
+        "src.h": "c",
+        "cellprotected.h": "c",
+        "sha.h": "c"
+    }
+}
